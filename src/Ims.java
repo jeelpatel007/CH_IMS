@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.Scanner;
 
 /**
  * Created by Jeel_Mac on 02/05/16.
